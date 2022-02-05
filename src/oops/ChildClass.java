@@ -4,9 +4,7 @@ public class ChildClass extends Person{
 	
 	public String Profession;
 	
-	public ChildClass() {
-		
-	}
+
 	public ChildClass(String Name, int Age, String Profession) {
 		
 		super(Name,Age);
